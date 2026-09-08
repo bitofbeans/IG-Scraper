@@ -1,0 +1,6 @@
+beautifulsoup4==4.13.4
+cloudscraper==1.2.71
+nest_asyncio==1.6.0
+requests==2.32.3
+selenium==4.33.0
+seleniumbase==4.50.2
